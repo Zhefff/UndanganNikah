@@ -22,8 +22,12 @@ body {
   }
   
   @media (max-width: 600px) {
+    body {
+    height:100vh;
+    }
+    
     .container {
-      height:100vh;
+      height:auto;
       margin: 300px 10px 10px 10px;
   }
   
