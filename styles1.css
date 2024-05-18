@@ -23,7 +23,7 @@ body {
   
   @media (max-width: 600px) {
     .container {
-      height:100vh;
+      height:auto;
   }
   
   
