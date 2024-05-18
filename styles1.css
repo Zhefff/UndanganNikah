@@ -25,10 +25,12 @@ body {
     body {
     height:100vh;
     margin:0;
+    padding-top:80px;
     }
     
     .container {
       height:auto;
+      margin:10px 10px;
     }
   }
   
