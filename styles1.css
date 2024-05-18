@@ -23,7 +23,7 @@ body {
   
   @media (max-width: 600px) {
     .container {
-      height:auto;
+      height:100vh;
       margin: 300px 10px 10px 10px;
   }
   
