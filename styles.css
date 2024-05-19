@@ -349,6 +349,7 @@ body, html {
 
 #greeting-form {
   margin-bottom: 30px;
+  color:#333;
 }
 
 #sender-name,
